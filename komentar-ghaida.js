@@ -2,7 +2,7 @@
 <div id='fb-root'/>
 <script type='text/javascript'>
 //<![CDATA[
-var disqus_shortname="rulgzn";
+var disqus_shortname="hidupuisi";
 var disqus_url = disqus_blogger_current_url;
 
 (function () {
